@@ -1,0 +1,21 @@
+
+@media screen and (max-width: 768px)
+{
+
+.td1{
+  display:none;
+}
+
+.td11{
+  display: block;
+  position:relative;
+  transition: .5s ease;
+  top: 375px;
+  left: 50%;
+  right: 50%;
+}
+.bntSocial{
+  width: 300px;
+}
+
+}
