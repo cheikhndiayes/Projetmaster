@@ -49,7 +49,7 @@
 					<execution>
 						<id>xjc</id>
 						<goals>
-							<goal>install</goal>
+							<goal>xjc</goal>
 						</goals>
 					</execution>
 				</executions>
